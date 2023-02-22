@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "http-server": "*"
+    },
+    "scripts": {
+        "start": "http-server"   
+    }
+}
